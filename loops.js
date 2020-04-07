@@ -32,9 +32,4 @@ function doWhileLoop(num){
     console.log("I run once regardless.");
   } while (incrementVariable() < 10);
 }
-Object Puppy push notification 
-notification Puppy barks 
-I am a marketing professional 
-Function doWhileLoop 
-forLoop casey making fun of marketing
-professional
+
